@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FILE>
+
+  
+  
+  
+  <memory TITLE ="Types of house / Rodzaje domów"/>
+  
+  <memory EN="block of flats" PL = "blok mieszklany" />
+  <memory EN="building" PL = "budynek" />
+  <memory EN="bungalow" PL = "dom parterowy" />
+  <memory EN="castle" PL = "zamek" />
+  <memory EN="cottage" PL = "domek wiejski" />
+  <memory EN="detached house" PL = "wolnostojący dom" />
+  <memory EN="family house" PL = "dom rodzinny" />
+  <memory EN="farm house" PL = "dom w gospodarstwie" />
+  <memory EN="flat" PL = "mieszkanie" />
+  <memory EN="house" PL = "dom" />
+  <memory EN="mansion" PL = "pałac,rezydencja" />
+  <memory EN="nursing house" PL = "dom starców" />
+  <memory EN="semi-detached house" PL = "bliźniak" />
+  <memory EN="studio flat" PL = "kawalerka" />
+  <memory EN="terraced house" PL = "dom szeregowy" />
+  <memory EN="villa" PL = "willa" />
+
+  <memory COLOR="true" EN="afforadable housing" PL = "domy,mieszkania w przystępnej cenie" />
+  <memory COLOR="true" EN="all mod cons" PL = "wszystkie wygody" />
+  <memory COLOR="true" EN="auction" PL = "aukcja" />
+  <memory COLOR="true" EN="bedsit" PL = "kawalerka do wynajęcia" />
+  <memory COLOR="true" EN="bid" PL = "oferta w licytacji" />
+  <memory COLOR="true" EN="dilapitated" PL = "zniszczony/walący się" />
+  <memory COLOR="true" EN="housing estate" PL = "osiedle mieszkaniowe" />
+  <memory COLOR="true" EN="in need of renovation" PL = "do remontu" />
+  <memory COLOR="true" EN="mobile home" PL = "przyczepa mieszkalna" />
+  <memory COLOR="true" EN="retirement flat" PL = "mieszkanie dla emeryta" />
+  <memory COLOR="true" EN="sheltered accomodation" PL = "mieszkania dla osób starszych" />
+  <memory COLOR="true" EN="under construction" PL = "w budowie" />
+
+  <memory TITLE ="Location / Położenie"/>
+  
+  <memory EN="away from" PL = "z dala od" />
+  <memory EN="city" PL = "miasto" />
+  <memory EN="commute" PL = "dojeżdżać do" />
+  <memory EN="district" PL = "dzielnica" />
+  <memory EN="in a rural area" PL = "w wiejskiej okolicy" />
+  <memory EN="in the centre" PL = "w centrum" />
+  <memory EN="in the countryside" PL = "na wsi" />
+  <memory EN="in the suburbs" PL = "na przedmieściach" />
+  <memory EN="inhabitant" PL = "mieszkaniec" />
+  <memory EN="located" PL = "położony" />
+  <memory EN="neighbour" PL = "sąsiad/śąsiadka" />
+  <memory EN="neighbourhood" PL = "sąsiedztwo" />
+  <memory EN="old town" PL = "stare miasto" />
+  <memory EN="on the edge of" PL = "na skraju" />
+  <memory EN="overlook" PL = "wychodzić na" />
+  <memory EN="public transport" PL = "transport publiczny" />
+  <memory EN="residents" PL = "mieszkańcy" />
+  <memory EN="view" PL = "widok" />
+  <memory EN="village" PL = "wioska" />
+
+  <memory COLOR="true" EN="a stone's throw from" PL = "rzut kamieniem od" />
+  <memory COLOR="true" EN="across the road from" PL = "po drugiej stronie ulicy" />
+  <memory COLOR="true" EN="amenities" PL = "udogdnienia" />
+  <memory COLOR="true" EN="central location" PL = "centralne położenie" />
+  <memory COLOR="true" EN="hustle and bustle" PL = "zgiełk" />
+  <memory COLOR="true" EN="in the heart of the countryside" PL = "na głębokiej wski" />
+  <memory COLOR="true" EN="in the middle of nowhere" PL = "na odludziu" />
+  <memory COLOR="true" EN="lane" PL = "dróżka" />
+  <memory COLOR="true" EN="off the beaten track" PL = "na uboczu" />
+  <memory COLOR="true" EN="within walking distance of" PL = "w bliskeij odległości" />
+
+  
+  <memory TITLE ="Rooms and parts of the house / Pomieszczenia i części domu"/>
+  
+  <memory EN="attic" PL = "strych/poddasze" />
+  <memory EN="balcony" PL = "balkon" />
+  <memory EN="basement/cellar" PL = "piwnica" />
+  <memory EN="bathroom" PL = "łazienka" />
+  <memory EN="bedroom" PL = "sypialnia" />
+  <memory EN="carport" PL = "wiata na samochód" />
+  <memory EN="ceiling" PL = "sufit" />
+  <memory EN="chimney" PL = "komin" />
+  <memory EN="dining room" PL = "jadalnia" />
+  <memory EN="door" PL = "drzwi" />
+  <memory EN="downstairs" PL = "na dole/parterze" />
+  <memory EN="drive" PL = "podjazd" />
+  <memory EN="fence" PL = "ogrodzenie/płot" />
+  <memory EN="fireplace" PL = "kominek" />
+  <memory EN="front/back door" PL = "drzwi frontowe/tylne" />
+  <memory EN="garage" PL = "garaż" />
+  <memory EN="garden" PL = "ogród" />
+  <memory EN="gate" PL = "brama" />
+  <memory EN="ground floor" PL = "parter" />
+  <memory EN="hall" PL = "hol" />
+  <memory EN="hedge" PL = "żywopłot" />
+  <memory EN="island" PL = "wyspa kuchenna" />
+  <memory EN="kitchen" PL = "kuchnia" />
+  <memory EN="laundry room" PL = "domowa pralnia" />
+  <memory EN="lift" PL = "winda" />
+  <memory EN="living room" PL = "salon" />
+  <memory EN="loft" PL = "strych/poddasze" />
+  <memory EN="porch" PL = "ganek" />
+  <memory EN="roof" PL = "dach" />
+  <memory EN="shed" PL = "szopa" />
+  <memory EN="sitting room" PL = "pokój dzienny" />
+  <memory EN="stairs" PL = "schody" />
+  <memory EN="steps" PL = "schodki" />
+  <memory EN="study" PL = "gabinet" />
+  <memory EN="upstairs" PL = "na górze/ na piętrze" />
+  <memory EN="wall" PL = "ściana" />
+
+  <memory COLOR="true" EN="burglar alarm" PL = "alarm antywłamaniowy" />
+  <memory COLOR="true" EN="double-glazed" PL = "z podwójną szybą" />
+  <memory COLOR="true" EN="extension" PL = "przybudówka" />
+  <memory COLOR="true" EN="fish pond" PL = "staw rybny" />
+  <memory COLOR="true" EN="floorboards" PL = "deski podłogowe" />
+  <memory COLOR="true" EN="flowerbed" PL = "klomb" />
+  <memory COLOR="true" EN="landing" PL = "półpiętro" />
+  <memory COLOR="true" EN="smoke alarm" PL = "alarm przeciwpożarowy" />
+  <memory COLOR="true" EN="solar panels" PL = "panele słoneczne" />
+  <memory COLOR="true" EN="stair rail" PL = "poręcz przy schodach" />
+  <memory COLOR="true" EN="utility room" PL = "pomieszczenie gospodarcze" />
+  <memory COLOR="true" EN="windowsill" PL = "parapet okienny" />
+  
+
+  <memory TITLE ="Describing a house / Opis domu"/>
+  
+  <memory EN="airy" PL = "przestronny" />
+  <memory EN="brick" PL = "cegła" />
+  <memory EN="bright" PL = "jasny" />
+  <memory EN="cluttered" PL = "zagracony" />
+  <memory EN="comfortable" PL = "wygodny" />
+  <memory EN="convert" PL = "przerobić" />
+  <memory EN="cosy" PL = "przytulny" />
+  <memory EN="decorated" PL = "wykończony/odnowiony" />
+  <memory EN="eco-friendly" PL = "przyjazny dla środowiska" />
+  <memory EN="furnished" PL = "umeblowany" />
+  <memory EN="glass" PL = "szkło" />
+  <memory EN="homely" PL = "przytulny" />
+  <memory EN="luxurious" PL = "luksusowy" />
+  <memory EN="maintain" PL = "utrzymywać" />
+  <memory EN="modern" PL = "nowoczesny" />
+  <memory EN="mud" PL = "błoto" />
+  <memory EN="second-hand" PL = "używany/z drugiej ręki" />
+  <memory EN="spacious" PL = "przestronny" />
+  <memory EN="steel" PL = "stalowy" />
+  <memory EN="stone" PL = "kamienny" />
+  <memory EN="tidy/untidy" PL = "posprzątany" />
+  <memory EN="wooden" PL = "drewniany" />
+
+  <memory COLOR="true" EN="badly-decorated" PL = "źle wykończony" />
+  <memory COLOR="true" EN="cramped" PL = "ciasny" />
+  <memory COLOR="true" EN="dingy" PL = "obskurny" />
+  <memory COLOR="true" EN="dusty" PL = "zakurzony" />
+  <memory COLOR="true" EN="oak" PL = "dębowy" />
+  <memory COLOR="true" EN="old-fashioned" PL = "staromodny" />
+  <memory COLOR="true" EN="open-plan" PL = "bez ścian działowych" />
+  <memory COLOR="true" EN="stuffy" PL = "duszny" />
+  <memory COLOR="true" EN="unique-looking" PL = "o unikalnym wyglądzie" />
+  <memory COLOR="true" EN="well-maintained" PL = "dobrze zadbany" />
+  
+  <memory TITLE ="Furniture and equipment / Meble i wyposażenie"/>
+  
+  <memory EN="alarm clock" PL = "budzik" />
+  <memory EN="armchair" PL = "fotel" />
+  <memory EN="bath" PL = "wanna" />
+  <memory EN="bed" PL = "łóżko" />
+  <memory EN="bedside table" PL = "stolik nocny" />
+  <memory EN="bin" PL = "kosz" />
+  <memory EN="blanket" PL = "koc" />
+  <memory EN="blinds" PL = "zasłony" />
+  <memory EN="bookcase" PL = "biblioteczka" />
+  <memory EN="bookshelf" PL = "półka na książki" />
+  <memory EN="carpet" PL = "dywan" />
+  <memory EN="CD player" PL = "odtwarzacz CD" />
+  <memory EN="central heating" PL = "centalne ogrzewanie" />
+  <memory EN="chair" PL = "krzesło" />
+  <memory EN="chest of drawers" PL = "komoda" />
+  <memory EN="cooker" PL = "kuchenka" />
+  <memory EN="cupboard" PL = "szafka kuchenna" />
+  <memory EN="curtains" PL = "zasłony" />
+  <memory EN="cushions" PL = "poduszka(dekoracyjna)" />
+  <memory EN="desk" PL = "biurko" />
+  <memory EN="dishwasher" PL = "zmywarka" />
+  <memory EN="double bed" PL = "podwójne łóżko" />
+  <memory EN="duvet" PL = "kołdra" />
+  <memory EN="equipment" PL = "wyposażenie" />
+  <memory EN="fireplace" PL = "kominek" />
+  <memory EN="fitted carpet" PL = "wykładzina dywanowa" />
+  <memory EN="flowerpot" PL = "doniczka" />
+  <memory EN="freezer" PL = "zamrażarka" />
+  <memory EN="fridge" PL = "lodówka" />
+  <memory EN="hoover" PL = "odkurzacz" />
+  <memory EN="lamp" PL = "lampa" />
+  <memory EN="light" PL = "światło" />
+  <memory EN="lighting" PL = "oświetlenie" />
+  <memory EN="microwave" PL = "mikrofalówka" />
+  <memory EN="mirror" PL = "lustro" />
+  <memory EN="oven" PL = "piekarnik" />
+  <memory EN="picture" PL = "obrazek" />
+  <memory EN="pillow" PL = "poduszka" />
+  <memory EN="poster" PL = "plakat" />
+  <memory EN="radiator" PL = "kaloryfer" />
+  <memory EN="rug" PL = "dywanik" />
+  <memory EN="sheet" PL = "prześcieradło" />
+  <memory EN="shelf" PL = "półka" />
+  <memory EN="shower" PL = "prysznic" />
+  <memory EN="single bed" PL = "pojedyncze łóżko" />
+  <memory EN="sink" PL = "zlew" />
+  <memory EN="sofa" PL = "kanapa" />
+  <memory EN="table" PL = "stół" />
+  <memory EN="toaster" PL = "toster" />
+  <memory EN="toilet" PL = "toaleta" />
+  <memory EN="TV set" PL = "telewizor" />
+  <memory EN="wallpaper" PL = "tapeta" />
+  <memory EN="wardrobe" PL = "szafa" />
+  <memory EN="washbasin" PL = "umywalka" />
+  <memory EN="washing machine" PL = "pralka" />
+
+  <memory COLOR="true" EN="antique" PL = "zabydkowy" />
+  <memory COLOR="true" EN="fruit bowl" PL = "miska na owoce" />
+  <memory COLOR="true" EN="hand(of a clock)" PL = "wskazówka zegara" />
+  <memory COLOR="true" EN="kettle" PL = "czajnik" />
+  <memory COLOR="true" EN="kitchen appliances" PL = "sprzęt kuchenny" />
+  <memory COLOR="true" EN="kitchen utensils" PL = "przybory kuchenne" />
+  <memory COLOR="true" EN="mantelpiece" PL = "półka nad kominkiem" />
+  <memory COLOR="true" EN="ornament" PL = "ozdoba" />
+  <memory COLOR="true" EN="potted plant" PL = "roślina doniczkowa" />
+  <memory COLOR="true" EN="shutters" PL = "okiennice" />
+  <memory COLOR="true" EN="silver frame" PL = "srebrna ramka" />
+  <memory COLOR="true" EN="rack" PL = "pólka" />
+
+  <memory TITLE ="Household and garden jobs / Prace w domu i w ogrodzie"/>
+  
+  <memory EN="change the sheets" PL = "zmienić pościel" />
+  <memory EN="do the gardening" PL = "pracować w ogrodzie" />
+  <memory EN="do the housework" PL = "zajmowac się domem" />
+  <memory EN="empty the dishwasher" PL = "opróżnić zmywarkę" />
+  <memory EN="have green fingers" PL = "mieć dobrą rękę do roślin" />
+  <memory EN="hoover the carpet" PL = "odkurzać dywan" />
+  <memory EN="iron the clothes" PL = "prasować ubrania" />
+  <memory EN="make the bed" PL = "ścielić łóżko" />
+  <memory EN="mow the lawn" PL = "kosić trawnik" />
+  <memory EN="sweep the floor" PL = "zamiatać trawnik" />
+  <memory EN="tidy the desk" PL = "porządkowac biurko" />
+
+  <memory COLOR="true" EN="broom" PL = "miotła" />
+  <memory COLOR="true" EN="brush" PL = "szczotka" />
+  <memory COLOR="true" EN="duster" PL = "ściereczka do kurzu" />
+  <memory COLOR="true" EN="lawnmower" PL = "kosiarka" />
+  <memory COLOR="true" EN="rake" PL = "grabie" />
+  <memory COLOR="true" EN="rubber gloves" PL = "gumowe rękawiczki" />
+  <memory COLOR="true" EN="spade" PL = "szpadel" />
+  <memory COLOR="true" EN="trowel" PL = "rydel" />
+
+  <memory TITLE ="Renting,Purchasing and selling property / wynajem,kupno i sprzedaż nieruchomości"/>
+  
+  <memory EN="accommodation" PL = "zakwaterownanie" />
+  <memory EN="ad" PL = "ogłoszenie/reklama" />
+  <memory EN="advert" PL = "ogłoszenie/reklama" />
+  <memory EN="flatmate" PL = "współlokator" />
+  <memory EN="for sale" PL = "na sprzedaż" />
+  <memory EN="landlord/landlady" PL = "właściciel/właścicielka" />
+  <memory EN="live on one's own" PL = "mieszkac samemu" />
+  <memory EN="move in/out" PL = "wprowadzić się/ wyprowadzić się" />
+  <memory EN="pay in advance" PL = "zapłącić z góry" />
+  <memory EN="rent" PL = "wynająć" />
+  <memory EN="share a room" PL = "dzielić z kimś pokój" />
+  <memory EN="to let" PL = "do wynajęcia" />
+
+  <memory COLOR="true" EN="bill" PL = "rachunek" />
+  <memory COLOR="true" EN="budget" PL = "budżet" />
+  <memory COLOR="true" EN="charge" PL = "liczyć/pobierać opłatę" />
+  <memory COLOR="true" EN="deposit" PL = "kaucja/zaliczka" />
+  <memory COLOR="true" EN="estate agent" PL = "agent/agentka nieruchomości" />
+  <memory COLOR="true" EN="housewarming" PL = "parapetówka" />
+  <memory COLOR="true" EN="instalments" PL = "raty" />
+  <memory COLOR="true" EN="notice" PL = "wypowiedzenie" />
+  <memory COLOR="true" EN="payment" PL = "płatność" />
+  <memory COLOR="true" EN="per week/per month" PL = "tygodniowo/miesięcznie" />
+  <memory COLOR="true" EN="take out a mortgage" PL = "wziąć kredyt hipoteczny" />
+  <memory COLOR="true" EN="tenant" PL = "najemca/lokator" />
+
+  <memory TITLE ="Other / Inne"/>
+  
+  <memory EN="affordable" PL = "w przystępnej cenie" />
+  <memory EN="beyond" PL = "poza" />
+  <memory EN="complain" PL = "skarżyć sie/narzekać" />
+  <memory EN="embellish" PL = "upiększyć/podkolorować" />
+  <memory EN="fully furnished" PL = "w pełni umeblowany" />
+  <memory EN="keep your eyes on" PL = "nie spuszczać kogoś z oczu" />
+  <memory EN="miss" PL = "tęsknić za" />
+  <memory EN="nearby" PL = "w pobliżu" />
+  <memory EN="rough" PL = "niebezpieczny" />
+  <memory EN="sharp" PL = "ostry" />
+  <memory EN="sigh" PL = "wzdychać" />
+  <memory EN="stare at" PL = "wpatrywać się" />
+  <memory EN="sulk" PL = "dąsać się" />
+  <memory EN="tiny" PL = "maleńki" />
+  
+  <memory COLOR="true" EN="be off your head" PL = "być szalonym" />
+  <memory COLOR="true" EN="blurry" PL = "nieostry/zamazany" />
+  <memory COLOR="true" EN="bump into" PL = "wpaść na kogoś" />
+  <memory COLOR="true" EN="get into" PL = "spotkać kogoś przypadkiem" />
+  <memory COLOR="true" EN="kick up a fuss" PL = "zrobić awanturę" />
+  <memory COLOR="true" EN="rambling" PL = "pełen zakamarków" />
+  <memory COLOR="true" EN="run-down" PL = "zniszczony/podupadły" />
+  <memory COLOR="true" EN="snug" PL = "przytulny/zaciszny" />
+  <memory COLOR="true" EN="solitude" PL = "samotność" />
+  <memory COLOR="true" EN="squashed" PL = "wciśnięty" />
+  <memory COLOR="true" EN="stain" PL = "plama" />
+  <memory COLOR="true" EN="stream in" PL = "wlewać się" />
+  <memory COLOR="true" EN="stumble upon" PL = "natknąć się na" />
+  <memory COLOR="true" EN="turn into" PL = "zmienić się" />
+  <memory COLOR="true" EN="turn up for" PL = "pojawić się na" />
+  <memory COLOR="true" EN="wrapped up in" PL = "pochłonięty czymś" />
+  
+  
+  
+</FILE>
+

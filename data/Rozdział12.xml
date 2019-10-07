@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FILE>
+
+  <memory TITLE ="Areas of science and scientist/ Dziedziny nauki i naukowcy"/>
+
+  <memory EN="anatomy" PL = "anatomia" />
+  <memory EN="anatomist" PL = "anatom" />
+  <memory EN="archeology" PL = "archeologia" />
+  <memory EN="archeologist" PL = "archeolog" />
+  <memory EN="astronomy" PL = "astronomia" />
+  <memory EN="astronomer" PL = "astronom" />
+  <memory EN="biology" PL = "biologia" />
+  <memory EN="biologist" PL = "biolog" />
+  <memory EN="chemistry" PL = "chemia" />
+  <memory EN="chemist" PL = "chemik" />
+  <memory EN="computer science" PL = "informatyka" />
+  <memory EN="computer scientist" PL = "informatyk" />
+  <memory EN="ecology" PL = "ekologia" />
+  <memory EN="ecologist" PL = "ekolog" />
+  <memory EN="economist" PL = "ekonomista" />
+  <memory EN="engineering" PL = "inżynieria" />
+  <memory EN="genetics" PL = "genetyka" />
+  <memory EN="geneticist" PL = "genetyk" />
+  <memory EN="geology" PL = "geologia" />
+  <memory EN="geologist" PL = "geolog" />
+  <memory EN="linguisitcs" PL = "językoznastwo" />
+  <memory EN="linguist" PL = "językoznawca" />
+  <memory EN="mathematics" PL = "matematyka" />
+  <memory EN="mathematican" PL = "matematyk" />
+  <memory EN="metorology" PL = "meteorologia" />
+  <memory EN="meteorlogist" PL = "meteorolog" />
+  <memory EN="oceanography" PL = "oceanografia" />
+  <memory EN="oceanographer" PL = "oceanograf" />
+  <memory EN="physics" PL = "fizyka" />
+  <memory EN="physicist" PL = "fizyk" />
+  <memory EN="psycholgy" PL = "psychologia" />
+  <memory EN="psychologist" PL = "psycholog" />
+  <memory EN="sociology" PL = "socjologia" />
+  <memory EN="sociologist" PL = "socjolog" />
+  <memory EN="statistics" PL = "statystyka" />
+  <memory EN="statistican" PL = "statystyk" />
+
+  <memory TITLE ="Inventions and discoveries / Wynalazki i odkrycia"/>
+  
+  <memory EN="aerial" PL = "antena" />
+  <memory EN="air conditioning" PL = "klimatyzacja" />
+  <memory EN="battery" PL = "bateria" />
+  <memory EN="binoculars" PL = "lornetka" />
+  <memory EN="charger" PL = "ładowarka" />
+  <memory EN="cordless kettle" PL = "czajnik bezprzewodowy" />
+  <memory EN="device" PL = "urządzenie" />
+  <memory EN="digital camera" PL = "aparat cyfrowy" />
+  <memory EN="dishwasher" PL = "zmywarka" />
+  <memory EN="dvd/MP3 player" PL = "odtwarzacz MP3/DVD" />
+  <memory EN="engine" PL = "silnik" />
+  <memory EN="gadget" PL = "gadżet" />
+  <memory EN="hairdryer" PL = "suszarka do włosów" />
+  <memory EN="have an infuence on" PL = "mieć wpływ na" />
+  <memory EN="light bulb" PL = "żarówka" />
+  <memory EN="machine" PL = "maszyna" />
+  <memory EN="microvawe oven" PL = "kuchenka mikrofalowa" />
+  <memory EN="mobile phone" PL = "telefon komórkowy" />
+  <memory EN="photocopier" PL = "kserokopiarka" />
+  <memory EN="ready-cooked meals" PL = "dania gotowe" />
+  <memory EN="remote control" PL = "zdalne sterownie / pilot" />
+  <memory EN="satnav" PL = "nawigacja satelitarna" />
+  <memory EN="tablet computer" PL = "tablet" />
+  <memory EN="touch screen" PL = "ekran dotykowy" />
+  <memory EN="vacuum cleaner" PL = "odkurzacz" />
+  <memory EN="video camera" PL = "kamera video" />
+  <memory EN="washing machine" PL = "pralka" />
+  <memory EN="wireless technology" PL = "technologia komunikacji bezprzewodowej"/>
+  
+  <memory TITLE ="Scientific research / Badania naukowe"/>
+  
+  <memory EN="conduct an experiment" PL = "przeprowadzić eksperyment" />
+  <memory EN="create" PL = "tworzyć" />
+  <memory EN="develop/ development" PL = "opracować/rozwój" />
+  <memory EN="disovery" PL = "odkrycie" />
+  <memory EN="do an experiment" PL = "wykonać eksperyment" />
+  <memory EN="do research" PL = "przeprowadzić badania" />
+  <memory EN="follow instructions" PL = "stosować się do wskazówek" />
+  <memory EN="invent/invention" PL = "wynaleźć/wynalazek" />
+  <memory EN="keep records" PL = "zapisywać/przeprowadzić dokumentację" />
+  <memory EN="lab" PL = "pracownia" />
+  <memory EN="make a discovery" PL = "dokonać odkrycia" />
+  <memory EN="make notes" PL = "robić notatki" />
+  <memory EN="predict/ prediciton" PL = "przewidzieć/ prognoza" />
+  <memory EN="reach a conclusion" PL = "dojść do wniosku" />
+  <memory EN="results" PL = "efekty/rezultaty" />
+  <memory EN="specialise in" PL = "specjalizować się" />
+  <memory EN="statistical data" PL = "dane statystyczne" />
+  <memory EN="survey" PL = "sondaż" />
+  <memory EN="vaccine" PL = "szczepionka" />
+
+  <memory COLOR="true" EN="analise/analysis" PL = "analizować/analiza" />
+  <memory COLOR="true" EN="clone a cell" PL = "sklonować komórkę" />
+  <memory COLOR="true" EN="compile statistics" PL = "sporzadzać statystyki" />
+  <memory COLOR="true" EN="develop a cure for" PL = "opracować lek na" />
+  <memory COLOR="true" EN="diagnose/diagnosis" PL = "diagnozowac/diagnoza" />
+  <memory COLOR="true" EN="estimate" PL = "oszacować" />
+  <memory COLOR="true" EN="evidence" PL = "dowody" />
+  <memory COLOR="true" EN="explore/exploration" PL = "badać/eksploracja" />
+  <memory COLOR="true" EN="forecast the weather" PL = "prognozować pogodę" />
+  <memory COLOR="true" EN="hypothesise/hypothesis" PL = "stawiać hipotezę/hipoteza" />
+  <memory COLOR="true" EN="invesigate/investigation" PL = "badać/badanie" />
+  <memory COLOR="true" EN="obeserve/observation" PL = "obserwowac/obserwacja" />
+  <memory COLOR="true" EN="prove/proof" PL = "udowodnić/dowód" />
+  <memory COLOR="true" EN="register your invention" PL = "zarejestrować wynalazek" />
+  <memory COLOR="true" EN="report your findings" PL = "złożyć sprawozdanie" />
+  <memory COLOR="true" EN="test a theory" PL = "sprawdzić teorię" />
+
+  <memory TITLE ="Using technology / Korzystanie z urządzeń technicznych"/>
+  
+  <memory EN="charge your phone" PL = "naładowac telefon" />
+  <memory EN="dial a number" PL = "wybrać numer" />
+  <memory EN="press a button" PL = "wcisnąć guzik" />
+  <memory EN="recharge" PL = "doładować" />
+  <memory EN="record a programme" PL = "nagrać program" />
+  <memory EN="replace a light bulb" PL = "wymienić żarówkę" />
+  <memory EN="send a text message/an email" PL = "wysłać sms/email" />
+  <memory EN="set the burglar alarm" PL = "włączyć alarm przeciwłamaniowy" />
+  <memory EN="surf the net" PL = "serfować w sieci" />
+  <memory EN="switch on/off the engine" PL = "uruchomić /wyłączyć silnik" />
+  <memory EN="take a photograph" PL = "zrobić zdjęcie" />
+  <memory EN="turn on/off" PL = "włączyć/wyłączyć" />
+  <memory EN="turn up the volume" PL = "zrobić głośniej" />
+  <memory EN="type" PL = "pisać na klawiaturze" />
+
+  <memory COLOR="true" EN="adjust" PL = "regulować" />
+  <memory COLOR="true" EN="dispose of old batteries" PL = "wyrzucać stare baterie" />
+  <memory COLOR="true" EN="ink cartridge" PL = "wkład z tuszem" />
+  <memory COLOR="true" EN="insert your card" PL = "wsunąć kartę" />
+  <memory COLOR="true" EN="plug in / unplug" PL = "podłączyć/odłączyć" />
+  <memory COLOR="true" EN="refer to the manual" PL = "sprawdzić w intruckcji obsługi" />
+  <memory COLOR="true" EN="socket" PL = "gniazdko elektryczne" />
+
+  <memory TITLE ="Inforamation and communication / Technologie informacyjno-komunikacyjne"/>
+
+  <memory EN="app/application" PL = "aplikacja" />
+  <memory EN="attach a document" PL = "załączyć dokument" />
+  <memory EN="back up" PL = "kopia zapasowa" />
+  <memory EN="browse/browser" PL = "przeglądać/przeglądarka" />
+  <memory EN="chat" PL = "czat/rzomawiać na czacie" />
+  <memory EN="click on" PL = "kliknąć na" />
+  <memory EN="connect to the internet" PL = "połączyć sie z internetem" />
+  <memory EN="copy" PL = "kopiować" />
+  <memory EN="data" PL = "dane" />
+  <memory EN="database" PL = "baza danych" />
+  <memory EN="delete" PL = "usunąć" />
+  <memory EN="downlaod/upload" PL = "pobrać/wrzucić" />
+  <memory EN="drag" PL = "przeciągnąć" />
+  <memory EN="edit" PL = "edytować" />
+  <memory EN="enter/key in a password" PL = "wprowadzić/wpisać hasło" />
+  <memory EN="file" PL = "plik" />
+  <memory EN="flash drive" PL = "pamięć USB" />
+  <memory EN="forward an email" PL = "przesłać email dalej" />
+  <memory EN="hard drive" PL = "twardy dysk" />
+  <memory EN="headphones" PL = "słuchawki" />
+  <memory EN="instal/uninstall" PL = "zainstalować/odinstalować" />
+  <memory EN="keyboard" PL = "klawiatura" />
+  <memory EN="link" PL = "link" />
+  <memory EN="log on/off" PL = "zalogwać/wylogować się" />
+  <memory EN="log onto a website" PL = "zalogować się na stronie internetowej" />
+  <memory EN="loudspeaker" PL = "głośnik" />
+  <memory EN="memory card" PL = "karta pemięci" />
+  <memory EN="menu" PL = "menu" />
+  <memory EN="monitor" PL = "monitor" />
+  <memory EN="mouse" PL = "mysz" />
+  <memory EN="mouse mat" PL = "podkładka pod mysz" />
+  <memory EN="operating system" PL = "system operacyjny" />
+  <memory EN="PC" PL = "komputer osobisty" />
+  <memory EN="post a comment" PL = "zamieścić komentarz" />
+  <memory EN="printer" PL = "drukarka" />
+  <memory EN="reply to an email" PL = "odpowiedzieć na e-mail" />
+  
+  <memory EN="restart (a computer)" PL = "ponownie uruchomić (komputer)" />
+  <memory EN="router" PL = "router" />
+  <memory EN="save" PL = "zapisać" />
+  <memory EN="scan a document" PL = "zeskanować dokument" />
+  <memory EN="screen" PL = "ekran" />
+  <memory EN="select" PL = "wybrać" />
+  <memory EN="send an email" PL = "wysłać email" />
+  <memory EN="shut down (computer)" PL = "wyłączyć (komputer)" />
+  <memory EN="smartphone" PL = "smartfon" />
+  <memory EN="social networking site" PL = "portal społecznościowy" />
+  <memory EN="start up a computer" PL = "uruchomić komputer" />
+  <memory EN="store data" PL = "przechowywać dane" />
+  <memory EN="toner" PL = "toner" />
+  <memory EN="type in" PL = "wpisać(hasło)" />
+  <memory EN="visit a website" PL = "odwiedzić stronę internetową" />
+  <memory EN="web" PL = "sieć/internet" />
+ 
+  
+  <memory COLOR="true" EN="insert a table" PL = "wstawić tabelę" />
+  <memory COLOR="true" EN=" instant messaging" PL = "komunikacja natychmiastowa" />
+  <memory COLOR="true" EN="predictive texting" PL = "pisanie sms przy użyciu metody słownikowej" />
+  <memory COLOR="true" EN="spreadsheet" PL = "arkusz kalkulacyjny" />
+  <memory COLOR="true" EN="stream live events" PL = "oglądac wydarzenia na żywo" />
+  <memory COLOR="true" EN="video call" PL = "wideorozmowa" />
+  <memory COLOR="true" EN="video conferencing" PL = "prowadzić wideokonferecnję" />
+  <memory COLOR="true" EN="word processing" PL = "edycja i formatowanie tekstów" />
+
+  <memory TITLE ="Text Editor / Edytor Tekstu"/>
+  
+  <memory COLOR="true" EN="bold" PL = "wytłuszczenie" />
+  <memory COLOR="true" EN="bullet" PL = "punktor" />
+  <memory COLOR="true" EN="close" PL = "zamknąć" />
+  <memory COLOR="true" EN="cut" PL = "wyciąć" />
+  <memory COLOR="true" EN="font name" PL = "nazwa czcionki" />
+  <memory COLOR="true" EN="highlight" PL = "podświetlić" />
+  <memory COLOR="true" EN="icon" PL = "ikona" />
+  <memory COLOR="true" EN="font size" PL = "wielkość czcionki" />
+  <memory COLOR="true" EN="italics" PL = "kursywa" />
+  <memory COLOR="true" EN="minimise" PL = "minimalizować" />
+  <memory COLOR="true" EN="paste" PL = "wkleić" />
+  <memory COLOR="true" EN="print" PL = "wydrukować" />
+  <memory COLOR="true" EN="redo/undo" PL = "powtórzyć/cofnąć" />
+  <memory COLOR="true" EN="underline" PL = "podkreślić" />
+  <memory COLOR="true" EN="upper / lower case" PL = "wielkie/małe litery" />
+
+  <memory TITLE ="Technical failures / Awarie techniczne"/>
+
+
+  <memory EN="break down" PL = "zepsuć się" />
+  <memory EN="computer virus" PL = "wirus komputerowy" />
+  <memory EN="crash" PL = "zawiesić się(o komputerze xD)" />
+  <memory EN="error message" PL = "komunikat" />
+  <memory EN="freeze" PL = "zawisić się" />
+  <memory EN="lose a file" PL = "stracić plik" />
+  <memory EN="lose connection" PL = "stracić połączenie" />
+  <memory EN="out of order" PL = "zepsuty" />
+  <memory EN="power cut" PL = "przerwa w dostawie prądu" />
+  <memory EN="reboot a computer" PL = "zrestartować komputer" />
+  <memory EN="recover" PL = "odzyskać" />
+  <memory EN="resend" PL = "wysłac ponownie" />
+  <memory EN="rundown" PL = "wyczerpać się" />
+  <memory EN="run out of time" PL = "skończył się czas" />
+  <memory EN="set up (a PC)" PL = "skonfigurować (komputer)" />
+
+  <memory COLOR="true" EN="attachment" PL = "załącznik" />
+  <memory COLOR="true" EN="bounce a back" PL = "odbić (wiadomość)" />
+  <memory COLOR="true" EN="buffer" PL = "buforować" />
+  <memory COLOR="true" EN="hardware" PL = "sprzęt komputerowy" />
+  <memory COLOR="true" EN="idenity fraud" PL = "kradzież tożsamości" />
+  <memory COLOR="true" EN="protect a password" PL = "chronić hasło" />
+  <memory COLOR="true" EN="server" PL = "serwer" />
+  <memory COLOR="true" EN="software" PL = "oprogramowanie" />
+
+  <memory TITLE ="Other inne"/>
+  
+  <memory EN="be addicted to" PL = "być uzależnionym" />
+  <memory EN="be up to date" PL = "być na bieżąco" />
+  <memory EN="best value for money" PL = "warty ceny" />
+  <memory EN="catch-up TV" PL = "programy telewizyjne na życzenie" />
+  <memory EN="constant lack of time" PL = "nieustanny brak czasu" />
+  <memory EN="depend on" PL = "polegać na" />
+  <memory EN="distant future" PL = "odległa przyszłość" />
+  <memory EN="electronic noticeboard" PL = "elektroniczna tablica ogłoszeń" />
+  <memory EN="end up" PL = "skończyć" />
+  <memory EN="futuristic trends" PL = "futurystyczne trendy" />
+  <memory EN="gasp" PL = "wydać stłumiony krzyk" />
+  <memory EN="ignore" PL = "ignorować" />
+  <memory EN="interactive exhibition" PL = "interaktywna wystawa" />
+  <memory EN="make a diffrence" PL = "robić drużynę" />
+  <memory EN="nightmare" PL = "koszmar senny" />
+  <memory EN="realistic" PL = "realistyczny" />
+  <memory EN="sharp" PL = "punktualnie" />
+  <memory EN="speech" PL = "mowa/przemówienie" />
+  <memory EN="take over" PL = "przejąć" />
+  <memory EN="turn out" PL = "okazać się" />
+
+  <memory COLOR="true" EN="advancement" PL = "postęp" />
+  <memory COLOR="true" EN="alleviate plan" PL = "złagodzić ból" />
+  <memory COLOR="true" EN="alter" PL = "zmienić" />
+  <memory COLOR="true" EN="come to rescue" PL = "przyjść na ratunek" />
+  <memory COLOR="true" EN="come up with" PL = "wymyślić" />
+  <memory COLOR="true" EN="comprehensible" PL = "zrozumiały" />
+  <memory COLOR="true" EN="Cutting-edge surgery" PL = "przełomowa operacja hirurgiczna" />
+  <memory COLOR="true" EN="dimension" PL = "wymiar" />
+  <memory COLOR="true" EN="kidnap" PL = "porwac kogoś" />
+  <memory COLOR="true" EN="offer an insight into" PL = "przedstawić wgląd" />
+  <memory COLOR="true" EN="raise concerns" PL = "wyrazić zaniepokojenie" />
+  <memory COLOR="true" EN="restrain" PL = "powstrzymać" />
+  <memory COLOR="true" EN="severe migraine" PL = "ostra migrena" />
+  <memory COLOR="true" EN="smash" PL = "rozbić" />
+  <memory COLOR="true" EN="technological advancement" PL = "postęp techniczny" />
+  <memory COLOR="true" EN="the onset of" PL = "początek (czegoś)" />
+  
+</FILE>
+

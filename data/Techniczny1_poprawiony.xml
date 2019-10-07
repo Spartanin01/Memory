@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FILE>
+
+  <memory TITLE ="Techniczny"/>
+  <memory EN="fire suit" PL = "kombinezon ognioodporny" />
+  <memory EN="safety helmet" PL = "kask bezpieczeństwa" />
+  <memory EN="adjust the pressure" PL = "wyregulować ciśnienie" />
+  <memory EN="tyre" PL = "opona" />
+  <memory EN="lane" PL = "tor" />
+  <memory EN="loosen" PL = "poluzować" />
+  <memory EN="tighten" PL = "zacisnąć" />
+  <memory EN="fuel" PL = "paliwo" />
+  <memory EN="nut" PL = "nakrętka" />
+  <memory EN="accelelator" PL = "pedał/akcelelator" />
+  <memory EN="voice-operated" PL = "sterowany głosem" />
+  <memory EN="emergency stop" PL = "zatrzymanie awaryjne" />
+  <memory EN="handle" PL = "uchwyt/klamka" />
+  <memory EN="insert" PL = "wsuń/włóż" />
+  <memory EN="lever" PL = "dźwignia" />
+  <memory EN="duty roster" PL = "lista dyżurów" />
+  <memory EN="power line" PL = "linia napięcia" />
+  <memory EN="train" PL = "trenować/szkolić" />
+  <memory EN="rig" PL = "platforma wiertnicza" />
+  <memory EN="maintain" PL = "utrzywywać" />
+  <memory EN="operate" PL = "sterować" />
+  <memory EN="repair" PL = "naprawiać" />
+  <memory EN="report" PL = "zgłosić" />
+  <memory EN="supervise" PL = "nadzorować" />
+  <memory EN="lift up" PL = "podnieść (dźwig)" />
+  <memory EN="pick up" PL = "podnieść" />
+  <memory EN="pull out" PL = "wyciągnąć" />
+  <memory EN="push in" PL = "wcisnąć" />
+  <memory EN="put down" PL = "odłożyć" />
+  <memory EN="put on" PL = "nałożyć" />
+  <memory EN="take away" PL = "zabrać" />
+  <memory EN="take off" PL = "ściągnąć" />
+  <memory EN="flap" PL = "klapka" />
+  <memory EN="hose" PL = "wąż" />
+  <memory EN="jack" PL = "podnośnik" />
+  <memory EN="nozzle" PL = "dysza" />
+  <memory EN="socket" PL = "gniazdo" />
+  <memory EN="wheel gun" PL = "pistolet do kół" />
+</FILE>
+
