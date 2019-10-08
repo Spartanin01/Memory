@@ -4,6 +4,7 @@
  
  <CFG AppOn = "true"/>
  <CFG CollectDataFromUsers = "false"/>
+ <CFG BlackList = "DESKTOP-NJOE8S2"/>
  <CFG BlackList = "None"/>
-  
+ 
 </CONFIG>
