@@ -4,6 +4,6 @@
  
  <CFG AppOn = "true"/>
  <CFG CollectDataFromUsers = "false"/>
- <CFG BlackList = "----">
+ <CFG BlackList = "----"/>
   
 </CONFIG>
