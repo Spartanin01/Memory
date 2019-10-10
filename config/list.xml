@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LIST>
- <LINK url=""/>
- <LINK url=""/>
- <LINK url=""/>
+ <LINK url="https://raw.githubusercontent.com/Spartanin01/Memory/master/data/Rozdział2.xml" name ="Rozdział2"/>
+ <LINK url="https://raw.githubusercontent.com/Spartanin01/Memory/master/data/Rozdział12.xml" name = "Rozdział12"/>
+ <LINK url="https://raw.githubusercontent.com/Spartanin01/Memory/master/data/Techniczny1_poprawiony.xml" name="Techniczny1" />
 </LIST>
