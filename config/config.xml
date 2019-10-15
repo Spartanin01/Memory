@@ -2,7 +2,7 @@
 
 <CONFIG>
  
- <CFG AppOn = "true"/>
+ <CFG AppOn = "false"/>
  <CFG ShowLoadingScreen = "true"/>
  <CFG CollectDataFromUsers = "false"/>
  <CFG BlackList = "None"/>
