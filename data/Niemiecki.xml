@@ -31,4 +31,15 @@
 <memory EN="Das reihenhaus" PL = "dom szeregowy" />
 <memory EN="der wohnblock" PL = "blok mieszkalny" />
 
+
+<memory TITLE ="Etapy w życiu człowieka"/>
+
+<memory EN="Das baby" PL = "niemowlę" />
+<memory EN="das kleinkind" PL = "małe dziecko" />
+<memory EN="die schulkind" PL = "dziecko w wieku szkolnym" />
+<memory EN="der/die jungendliche" PL = "nastolatek" />
+<memory EN="der/die Erwachsene " PL = "osoba dorosła" />
+<memory EN="der senior " PL = "senior" />
+
+
 </FILE>
