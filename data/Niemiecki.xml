@@ -2,18 +2,33 @@
 
 <FILE>
 
-  <memory TITLE ="Niemiecki"/>
+  <memory TITLE ="inne"/>
   <memory EN="Grobfamilie" PL = "duża rodzina" />
   <memory EN="Kleinfamilie" PL = "mała rodzina" />
   <memory EN="kinderreiche familie" PL = "rodzina wielodzietna" />
   <memory EN="kinderlose familie" PL = "rodzina bezdzietna" />
-  <memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
-<memory EN="" PL = "" />
+  <memory EN="wohnung" PL = "mieszkanie" />
+<memory EN="die miete betragt" PL = "czynsz wynosi" />
+
+<memory TITLE ="Wynajmowanie mieszkania"/>
+
+
+<memory EN="się ausstatung" PL = "wyposażenie" />
+<memory EN="der mieter" PL = "najemca, lokator" />
+<memory EN="die lage" PL = "położenie" />
+<memory EN="die miete" PL = "czynsz" />
+<memory EN="się kaution" PL = "kaucja" />
+<memory EN="der preis" PL = "cena" />
+<memory EN="die grobe" PL = "wielkość" />
+<memory EN="der Vermieter" PL = "wynajmujący" />
+<memory EN="się wohnflache" PL = "powierzchnia mieszkania" />
+
+<memory TITLE ="Nazwy budynków mieszkalnych"/>
+
+<memory EN="der altbau" PL = "stare budownictwo" />
+<memory EN="Das Einfamilienhaus" PL = "dom jednorodzinny" />
+<memory EN="der neubau" PL = "nowe budownictwo" />
+<memory EN="Das reihenhaus" PL = "dom szeregowy" />
+<memory EN="der wohnblock" PL = "blok mieszkalny" />
+
 <FILE/>
