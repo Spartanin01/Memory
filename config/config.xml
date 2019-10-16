@@ -8,7 +8,7 @@
  <CFG BlackList = "None"/>
  <CFG BlackList = "None"/>
  
- <CFG SupportedVersion = "1.1.7 beta"/>
- <CFG SupportedVersion = "1.1.6 beta"/>
+ <CFG SupportedVersion = "1.1.8 beta"/>
+
  
 </CONFIG>
