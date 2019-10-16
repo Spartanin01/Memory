@@ -2,7 +2,7 @@
 
 <FILE>
 
-  <memory TITLE ="inne"/>
+  <memory TITLE ="inne i zwroty"/>
   <memory EN="Grobfamilie" PL = "duża rodzina" />
   <memory EN="Kleinfamilie" PL = "mała rodzina" />
   <memory EN="kinderreiche familie" PL = "rodzina wielodzietna" />
@@ -19,7 +19,7 @@
 <memory EN="die miete" PL = "czynsz" />
 <memory EN="się kaution" PL = "kaucja" />
 <memory EN="der preis" PL = "cena" />
-<memory EN="die grobe" PL = "wielkość" />
+<memory EN="die  grobe" PL = "wielkość" />
 <memory EN="der Vermieter" PL = "wynajmujący" />
 <memory EN="się wohnflache" PL = "powierzchnia mieszkania" />
 
