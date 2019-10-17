@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <FILE>
+  
+  <language lan="de-de"/>
 
   <memory TITLE ="inne i zwroty"/>
   <memory EN="Grobfamilie" PL = "duża rodzina" />
