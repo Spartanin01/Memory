@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FILE>
+
+  <language lan="en-us"/>
+
+  
+  
+  <memory TITLE ="Produkcja"/>
+  
+  <memory EN="body" PL = "korpus/baza/rama" />
+  <memory EN="chassis" PL = "podwozie" />
+  <memory EN="drive shaft" PL = "wał napędowy" />
+  <memory EN="axle" PL = "oś" />
+  <memory EN="transmission" PL = "przekładnia" />
+  
+  <memory TITLE ="Kształty"/>
+  
+  <memory EN="cylinder" PL = "walec" />
+  <memory EN="rectangle" PL = "prostokąt" />
+  <memory EN="cube" PL = "sześcian" />
+  <memory EN="cone" PL = "stożek" />
+  <memory EN="semicircle" PL = "półkole" />
+  <memory EN="sphere" PL = "kula" />
+  <memory EN="square" PL = "kwadrat" />
+  <memory EN="circle" PL = "kółko" />
+  <memory EN="hemisphere" PL = "pół kuli" />
+  <memory EN="frame" PL = "rama" />
+  <memory EN="clip" PL = "spinacz" />
+  <memory EN="clamp" PL = "zacisk" />
+  <memory EN="junction" PL = "skrzyżowanie" />
+  <memory EN="bend" PL = "zgięcie" />
+  <memory EN="bolt" PL = "śróba/sworzeń" />
+  <memory EN="engine" PL = "silnik" />
+  
+   <memory TITLE = "Komunikacja"/>
+  
+  <memory EN="calculate" PL = "obliczyć" />
+  <memory EN="conduct" PL = "przeprowadzić" />
+  <memory EN="contain" PL = "zawierać/pomieścić" />
+  <memory EN="generate" PL = "generować" />
+  <memory EN="receive" PL = "odbierać" />
+  <memory EN="stabilise" PL = "stabilizować" />
+  <memory EN="transmit" PL = "przesyłać" />
+  <memory EN="extract" PL = "wyciągnąć" />
+  <memory EN="convert" PL = "zamienić/przekonwertować" />
+  <memory EN="display" PL = "wyświetlacz" />
+  <memory EN="operate" PL = "obsługiwać" />
+  <memory EN="computer" PL = "komputer" />
+  <memory EN="dish" PL = "talerz satelitarny" />
+  <memory EN="DTV card" PL = "karta dtv/dekoder" />
+  <memory EN="feed horn" PL = "odbiornik" />
+  <memory EN="satellite" PL = "satelita" />
+  <memory EN="TV" PL = "telewizor" />
+  <memory EN="TV station" PL = "stacja telewizyjna" />
+
+
+  
+ 
+</FILE>
+
