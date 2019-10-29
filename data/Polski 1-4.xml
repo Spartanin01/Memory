@@ -10,10 +10,10 @@
   
   <memory EN="Sofokles" PL = "Autor" />
   <memory EN="Starożytnośc" PL = "Epoka Literacka" />
-  <memory EN="" PL = "Gatunek Literacki" />
-  <memory EN="" PL = "Bohaterowie" />
-  <memory EN="" PL = "Czas i miejsce wydarzeń" />
-  <memory EN="" PL = "Motywy" />
+  <memory EN="Tragedia" PL = "Gatunek Literacki" />
+  <memory EN="Edyp,Joksta,Kreon" PL = "Bohaterowie" />
+  <memory EN="Teby,Plac przed pałacem" PL = "Czas i miejsce wydarzeń" />
+  <memory EN="żona,Miłość,Władca,Los,Kobieta,Przepowiednia" PL = "Motywy" />
   
   <memory TITLE ="Dzieje Tristana i Izoldy"/>
   
