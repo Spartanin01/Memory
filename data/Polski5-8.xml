@@ -6,32 +6,32 @@
 
   
   
-  <memory TITLE ="Król Edyp"/>
+  <memory TITLE ="Dziady III"/>
   
-  <memory EN="Sofokles" PL = "Autor" />
-  <memory EN="Starożytnośc" PL = "Epoka Literacka" />
-  <memory EN="Tragedia" PL = "Gatunek Literacki" />
-  <memory EN="Edyp,Joksta,Kreon" PL = "Bohaterowie" />
-  <memory EN="Teby,Plac przed pałacem" PL = "Czas i miejsce wydarzeń" />
-  <memory EN="żona,Miłość,Władca,Los,Kobieta,Przepowiednia" PL = "Motywy" />
+  <memory EN="Adam mickiewicz" PL = "Autor" />
+  <memory EN="romantyzm" PL = "Epoka Literacka" />
+  <memory EN="synkretyzm rodziajowy" PL = "Gatunek Literacki" />
+  <memory EN="Konrad,Ksiądz Piotr,Młodzież,Nowosilcow" PL = "Bohaterowie" />
+  <memory EN="Wilno,Warszawa,Lwów,Petersburg 1824" PL = "Czas i miejsce wydarzeń" />
+  <memory EN="Miłość,Bóg,bunt,bal" PL = "Motywy" />
   
-  <memory TITLE ="Dzieje Tristana i Izoldy"/>
+  <memory TITLE ="Pan tadeusz"/>
   
-  <memory EN="J.Bediere" PL = "Autor" />
-  <memory EN="Średniowiecze" PL = "Epoka Literacka" />
-  <memory EN="Dzieje" PL = "Gatunek Literacki" />
-  <memory EN="Tristan,Izolda,Marek" PL = "Bohaterowie" />
-  <memory EN="Las Moreński,Tyntagiel,Sredniowiecze" PL = "Czas i miejsce wydarzeń" />
-  <memory EN="Miłość,Kochankowie,Śmierć,Zdrada,Władca" PL = "Motywy" />
+  <memory EN="Adam Mickiewicz" PL = "Autor" />
+  <memory EN="Romantyzm" PL = "Epoka Literacka" />
+  <memory EN="Epopeja" PL = "Gatunek Literacki" />
+  <memory EN="Tadeusz,Zosia,Jacek Soplica, Telimena" PL = "Bohaterowie" />
+  <memory EN="Dworek,soplicowo,Dobryń 1811 1812" PL = "Czas i miejsce wydarzeń" />
+  <memory EN="Miłość,rodzina,ojczyzna,szlachcic" PL = "Motywy" />
   
-  <memory TITLE ="Makbet"/>
+  <memory TITLE ="Kordian"/>
   
-  <memory EN="Szekspir" PL = "Autor" />
-  <memory EN="Renesans/Barok" PL = "Epoka Literacka" />
-  <memory EN="Komedia" PL = "Gatunek Literacki" />
-  <memory EN="Makbet,Lady Makbet,Banko,Duncan,Malkoln" PL = "Bohaterowie" />
-  <memory EN="Szkocja,Zamek" PL = "Czas i miejsce wydarzeń" />
-  <memory EN="Bitwa,Żona,Władca,Kobieta,Duchy" PL = "Motywy" />
+  <memory EN="Juliusz Słowacki" PL = "Autor" />
+  <memory EN="Romantyzm" PL = "Epoka Literacka" />
+  <memory EN="Dramat romantyczny" PL = "Gatunek Literacki" />
+  <memory EN="Kordian,Grzegorz,Książę Konstanty,doktor" PL = "Bohaterowie" />
+  <memory EN="Noc sylwestrowa 1799, Londyn 1828" PL = "Czas i miejsce wydarzeń" />
+  <memory EN="Bóg,szatan,spisek" PL = "Motywy" />
 
 <memory TITLE ="Mendel Gdański"/>
   
@@ -39,7 +39,7 @@
   <memory EN="Pozytywizm" PL = "Epoka Literacka" />
   <memory EN="Nowela" PL = "Gatunek Literacki" />
   <memory EN="Mendel,Kubuś,sąsiad,student" PL = "Bohaterowie" />
-  <memory EN="Dom mendla, żydowska kamienica" PL = "Czas i miejsce wydarzeń" />
+  <memory EN="koniec XIX wieku,Dom mendla, żydowska kamienica" PL = "Czas i miejsce wydarzeń" />
   <memory EN="Miasto, Prześladowanie, dziecko" PL = "Motywy" />
 
 
