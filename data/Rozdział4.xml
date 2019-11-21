@@ -150,45 +150,45 @@
   <memory EN="workplace" PL = "miejsce pracy" />  
   
   
-  <memory COLOR="true" EN="business trip" PL = "" />
-  <memory COLOR="true" EN="do the graveyard shift" PL = "" />
-  <memory COLOR="true" EN="expenses" PL = "" />
-  <memory COLOR="true" EN="get regular feedback" PL = "" />
-  <memory COLOR="true" EN="have an appraisal" PL = "" />
-  <memory COLOR="true" EN="hourly rate" PL = "" />
-  <memory COLOR="true" EN="job description" PL = "" />
-  <memory COLOR="true" EN="minimum wage" PL = "" />
-  <memory COLOR="true" EN="pay into atention scheme" PL = "" />
-  <memory COLOR="true" EN="pay rise" PL = "" />
-  <memory COLOR="true" EN="probation/trial period" PL = "" />
-  <memory COLOR="true" EN="prodctivity" PL = "" />
-  <memory COLOR="true" EN="public holiday" PL = "" />
-  <memory COLOR="true" EN="quit a job" PL = "" />
-  <memory COLOR="true" EN="serve an apprentinceship" PL = "" />
-  <memory COLOR="true" EN="sign a contract" PL = "" />
-  <memory COLOR="true" EN="staff morale" PL = "" />
-  <memory COLOR="true" EN="take early retirement" PL = "" />
-  <memory COLOR="true" EN="take unpaid leave" PL = "" />
-  <memory COLOR="true" EN="yearly appraisal" PL = "" />
-  <memory COLOR="true" EN="working conditions" PL = "" />
+  <memory COLOR="true" EN="business trip" PL = "podróż służbowa" />
+  <memory COLOR="true" EN="do the graveyard shift" PL = "pracowac na nocna zmianę" />
+  <memory COLOR="true" EN="expenses" PL = "wydatki" />
+  <memory COLOR="true" EN="get regular feedback" PL = "regularnie otrzymywać informacje zwrotne" />
+  <memory COLOR="true" EN="have an appraisal" PL = "odbyć romowę z szefem na temat osiągnięć i wyników" />
+  <memory COLOR="true" EN="hourly rate" PL = "stawka godzinowa" />
+  <memory COLOR="true" EN="job description" PL = "zakres obowiązków" />
+  <memory COLOR="true" EN="minimum wage" PL = "płaca minimalna" />
+  <memory COLOR="true" EN="pay into apension scheme" PL = "płacić na fundusz emerytalny" />
+  <memory COLOR="true" EN="pay rise" PL = "podwyżka pensji" />
+  <memory COLOR="true" EN="probation/trial period" PL = "okres próbny" />
+  <memory COLOR="true" EN="prodctivity" PL = "wydjaność/produktywność" />
+  <memory COLOR="true" EN="public holiday" PL = "dzień ustawowo wolny od pracy" />
+  <memory COLOR="true" EN="quit a job" PL = "odejśc z pracy" />
+  <memory COLOR="true" EN="serve an apprentinceship" PL = "odbyć praktyki" />
+  <memory COLOR="true" EN="sign a contract" PL = "podpisac umowę" />
+  <memory COLOR="true" EN="staff morale" PL = "morale w zespole" />
+  <memory COLOR="true" EN="take early retirement" PL = "przejśc na wcześniejsza emeryturę" />
+  <memory COLOR="true" EN="take unpaid leave" PL = "urlop bezpłatny" />
+  <memory COLOR="true" EN="yearly appraisal" PL = "roczna ocena pracownika" />
+  <memory COLOR="true" EN="working conditions" PL = "warunki pracy" />
   
   <memory TITLE="Temporary work/praca dorywcza"/>
                                                                
-  <memory EN="au pair" PL = "" />                            
-  <memory EN="babysitter" PL = "" />
-  <memory EN="charity worker" PL = "" />
-  <memory EN="checkout assistant" PL = "" />
-  <memory EN="delvery boy" PL = "" />                            
-  <memory EN="fruit picking" PL = "" />
-  <memory EN="holiday job" PL = "" />
-  <memory EN="lifeguard" PL = "" />
-  <memory EN="seasonal work" PL = "" />                            
-  <memory EN="summer camp supervisor" PL = "" />
-  <memory EN="summer job" PL = "" />
-  <memory EN="tour guide" PL = "" />
-  <memory EN="voluntary work" PL = "" />                            
-  <memory EN="wages" PL = "" />
-  <memory EN="weekend job" PL = "" />
+  <memory EN="au pair" PL = "au pair" />                            
+  <memory EN="babysitter" PL = "opiekun/opiekunka" />
+  <memory EN="charity worker" PL = "wolontariusz" />
+  <memory EN="checkout assistant" PL = "kasjer/kasjerka" />
+  <memory EN="delivery boy" PL = "roznosiciel gazet" />                            
+  <memory EN="fruit picking" PL = "zbieranie owoców" />
+  <memory EN="holiday job" PL = "praca wakacyjna" />
+  <memory EN="lifeguard" PL = "ratownik" />
+  <memory EN="seasonal work" PL = "praca sezonowa" />                            
+  <memory EN="summer camp supervisor" PL = "opiekun na obozie letnim" />
+  <memory EN="summer job" PL = "praca na lato" />
+  <memory EN="tour guide" PL = "przewodnik" />
+  <memory EN="voluntary work" PL = "wolontariat" />                            
+  <memory EN="wages" PL = "płaca/dniówka" />
+  <memory EN="weekend job" PL = "praca weekendowa" />
   
   
   
