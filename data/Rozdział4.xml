@@ -99,7 +99,49 @@
   <memory TITLE ="Job adjectives/Przymiotniki opisujace pracę"/>
   
   
-  <memory EN="" PL = "" />
+  <memory EN="dangerous" PL = "niebezpieczny" />
+  <memory EN="manual" PL = "fizyczny" />
+  <memory EN="satisfying" PL = "satysfakcjonujący" />
+  <memory EN="skilled" PL = "wymagający kwalifikacji" />
+  <memory EN="stressful" PL = "stresujący" />
+  <memory EN="tiring" PL = "męczący" />
+  
+  <memory COLOR="true" EN="challenging" PL = "ambitny/stanowiący wyzwanie" />
+  <memory COLOR="true" EN="dead-end" PL = "bez perspektyw" />
+  <memory COLOR="true" EN="monotonous" PL = "monotonny" />
+  <memory COLOR="true" EN="motiviating" PL = "motywujący" />
+  <memory COLOR="true" EN="rewarding" PL = "satysfakcjonujący" />
+  <memory COLOR="true" EN="undemanding" PL = "niewymagający" />
+  
+  <memory TITLE ="Employment and work conditions/Warunki pracy i zatrudnienia"/>
+  
+  <memory EN="badly-paid" PL = "" />
+  <memory EN="bonus" PL = "" />
+  <memory EN="career prospects" PL = "" />
+  <memory EN="chance of promotion" PL = "" />
+  <memory EN="change jobs" PL = "" />
+  <memory EN="colleagues" PL = "" />
+  <memory EN="contract" PL = "" />
+  <memory EN="do/work overtime" PL = "" />
+  <memory EN="do/work shifts" PL = "" />
+  <memory EN="earn money" PL = "" />
+  <memory EN="duties" PL = "" />
+  <memory EN="earnings" PL = "" />
+  <memory EN="full-time" PL = "" />
+  <memory EN="get a job" PL = "" />
+  <memory EN="get a promotion" PL = "" />
+  <memory EN="income" PL = "" />
+  <memory EN="leave your job" PL = "" />
+  <memory EN="paid leave" PL = "" />
+  <memory EN="part-time" PL = "" />
+  <memory EN="pension" PL = "" />
+  <memory EN="per hour/week/month" PL = "" />
+  <memory EN="permament" PL = "" />
+  <memory EN="retire/retirement" PL = "" />
+  <memory EN="salary" PL = "" />
+  <memory EN="sick leave" PL = "" />
+  <memory EN="tax" PL = "" />
+  <memory EN="team work" PL = "" />
   <memory EN="" PL = "" />
   <memory EN="" PL = "" />
   <memory EN="" PL = "" />
@@ -107,6 +149,7 @@
 
 
 
+  <memory EN="" PL = "" />
   <memory TITLE =""/>
 
   <memory COLOR="true" EN="" PL = "" />
