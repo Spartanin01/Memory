@@ -148,12 +148,51 @@
   <memory EN="well-paid PL" = "dobrze płatny" />
   <memory EN="work long hours" PL = "pracowac do późna" />
   <memory EN="workplace" PL = "miejsce pracy" />  
-                                
-                                
-  <memory EN="" PL = "" />                            
-  <memory EN="" PL = "" />
-  <memory EN="" PL = "" />
-  <memory EN="" PL = "" />
+  
+  
+  <memory COLOR="true" EN="business trip" PL = "" />
+  <memory COLOR="true" EN="do the graveyard shift" PL = "" />
+  <memory COLOR="true" EN="expenses" PL = "" />
+  <memory COLOR="true" EN="get regular feedback" PL = "" />
+  <memory COLOR="true" EN="have an appraisal" PL = "" />
+  <memory COLOR="true" EN="hourly rate" PL = "" />
+  <memory COLOR="true" EN="job description" PL = "" />
+  <memory COLOR="true" EN="minimum wage" PL = "" />
+  <memory COLOR="true" EN="pay into atention scheme" PL = "" />
+  <memory COLOR="true" EN="pay rise" PL = "" />
+  <memory COLOR="true" EN="probation/trial period" PL = "" />
+  <memory COLOR="true" EN="prodctivity" PL = "" />
+  <memory COLOR="true" EN="public holiday" PL = "" />
+  <memory COLOR="true" EN="quit a job" PL = "" />
+  <memory COLOR="true" EN="serve an apprentinceship" PL = "" />
+  <memory COLOR="true" EN="sign a contract" PL = "" />
+  <memory COLOR="true" EN="staff morale" PL = "" />
+  <memory COLOR="true" EN="take early retirement" PL = "" />
+  <memory COLOR="true" EN="take unpaid leave" PL = "" />
+  <memory COLOR="true" EN="yearly appraisal" PL = "" />
+  <memory COLOR="true" EN="working conditions" PL = "" />
+  
+  <memory TITLE="Temporary work/praca dorywcza"/>
+                                                               
+  <memory EN="au pair" PL = "" />                            
+  <memory EN="babysitter" PL = "" />
+  <memory EN="charity worker" PL = "" />
+  <memory EN="checkout assistant" PL = "" />
+  <memory EN="delvery boy" PL = "" />                            
+  <memory EN="fruit picking" PL = "" />
+  <memory EN="holiday job" PL = "" />
+  <memory EN="lifeguard" PL = "" />
+  <memory EN="seasonal work" PL = "" />                            
+  <memory EN="summer camp supervisor" PL = "" />
+  <memory EN="summer job" PL = "" />
+  <memory EN="tour guide" PL = "" />
+  <memory EN="voluntary work" PL = "" />                            
+  <memory EN="wages" PL = "" />
+  <memory EN="weekend job" PL = "" />
+  
+  
+  
+  
 
   <memory EN="" PL = "" />
   <memory TITLE =""/>
