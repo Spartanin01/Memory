@@ -6,73 +6,73 @@
 
   <memory TITLE ="Jobs and responsibilities/Zawody i związane z nimi czynności"/>
 
-	<memory EN="accountant" PL = "" />
-  <memory EN="actor" PL = "" />
-  <memory EN="architect" PL = "" />
-  <memory EN="beautican" PL = "" />
-  <memory EN="boss" PL = "" />
-  <memory EN="bus driver" PL = "" />
-  <memory EN="cashier" PL = "" />
-  <memory EN="chef" PL = "" />
-  <memory EN="computer programmer" PL = "" />
-  <memory EN="dentist" PL = "" />
-  <memory EN="doctor" PL = "" />
-  <memory EN="economist" PL = "" />
-  <memory EN="electrican" PL = "" />
-  <memory EN="farmer" PL = "" />
-  <memory EN="fashion designer" PL = "" />
-  <memory EN="film director" PL = "" />
-  <memory EN="firefighter" PL = "" />
-  <memory EN="flight attendant" PL = "" />
-  <memory EN="hairdresser" PL = "" />
-  <memory EN="instructor" PL = "" />
-  <memory EN="journalist" PL = "" />
-  <memory EN="judge" PL = "" />
-  <memory EN="lawyer" PL = "" />
-  <memory EN="lecturer" PL = "" />
-  <memory EN="librarian" PL = "" />
-  <memory EN="manager" PL = "" />
-  <memory EN="mechanic" PL = "" />
-  <memory EN="miner" PL = "" />
-  <memory EN="model" PL = "" />
-  <memory EN="musican" PL = "" />
-  <memory EN="nurse" PL = "" />
-  <memory EN="office assistant" PL = "" />
-  <memory EN="painter" PL = "" />
-  <memory EN="paramedic" PL = "" />
-  <memory EN="pharmacist" PL = "" />
-  <memory EN="photographer" PL = "" />
-  <memory EN="pilot" PL = "" />
-  <memory EN="plumber" PL = "" />
-  <memory EN="police officer" PL = "" />
-  <memory EN="politician" PL = "" />
-  <memory EN="postman" PL = "" />
-  <memory EN="receptionist" PL = "" />
-  <memory EN="sales assistant" PL = "" />
-  <memory EN="sales representative" PL = "" />
-  <memory EN="scientist" PL = "" />
-  <memory EN="secretary" PL = "" />
-  <memory EN="shop assistant" PL = "" />
-  <memory EN="soldier" PL = "" />
-  <memory EN="surgeon" PL = "" />
-  <memory EN="teacher" PL = "" />
-  <memory EN="travel agent" PL = "" />
-  <memory EN="TV presenter" PL = "" />
-  <memory EN="vet" PL = "" />
-  <memory EN="waiter" PL = "" />
-  <memory EN="waitress" PL = "" />
-  <memory EN="writer" PL = "" />
+  <memory EN="accountant" PL = "księgowy/ksiegowa" />
+  <memory EN="actor" PL = "aktor" />
+  <memory EN="architect" PL = "architekt" />
+  <memory EN="beautican" PL = "kosmetyczka" />
+  <memory EN="boss" PL = "szef" />
+  <memory EN="bus driver" PL = "kierowca autobusu" />
+  <memory EN="cashier" PL = "kasjer w banku" />
+  <memory EN="chef" PL = "szef kuchni" />
+  <memory EN="computer programmer" PL = "programista" />
+  <memory EN="dentist" PL = "dentysta" />
+  <memory EN="doctor" PL = "lekarz" />
+  <memory EN="economist" PL = "ekonomista" />
+  <memory EN="electrican" PL = "elektryk" />
+  <memory EN="farmer" PL = "rolnik" />
+  <memory EN="fashion designer" PL = "projektant mody" />
+  <memory EN="film director" PL = "reżyser" />
+  <memory EN="firefighter" PL = "strażak" />
+  <memory EN="flight attendant" PL = "steward/stewardessa" />
+  <memory EN="hairdresser" PL = "fryzjer" />
+  <memory EN="instructor" PL = "instrukor" />
+  <memory EN="journalist" PL = "dziennikarz" />
+  <memory EN="judge" PL = "sędzia" />
+  <memory EN="lawyer" PL = "prawnik" />
+  <memory EN="lecturer" PL = "wykładowca" />
+  <memory EN="librarian" PL = "bibliotekarz" />
+  <memory EN="manager" PL = "kierownik" />
+  <memory EN="mechanic" PL = "mechanik" />
+  <memory EN="miner" PL = "górnik" />
+  <memory EN="model" PL = "model/modelka" />
+  <memory EN="musican" PL = "muzyk" />
+  <memory EN="nurse" PL = "pielegniarz/pielegniarka" />
+  <memory EN="office assistant" PL = "asystent biura" />
+  <memory EN="painter" PL = "malarz" />
+  <memory EN="paramedic" PL = "ratownik medyczny" />
+  <memory EN="pharmacist" PL = "aptekarz/aptekarka" />
+  <memory EN="photographer" PL = "fotograf" />
+  <memory EN="pilot" PL = "pilot" />
+  <memory EN="plumber" PL = "hydraulik" />
+  <memory EN="police officer" PL = "policjant" />
+  <memory EN="politician" PL = "polityk" />
+  <memory EN="postman" PL = "listonosz" />
+  <memory EN="receptionist" PL = "recepcjonistka" />
+  <memory EN="sales assistant" PL = "sprzedawca" />
+  <memory EN="sales representative" PL = "reprezentant handlowy" />
+  <memory EN="scientist" PL = "naukowiec" />
+  <memory EN="secretary" PL = "sekretarz/sekretarka" />
+  <memory EN="shop assistant" PL = "sprzedawca />
+  <memory EN="soldier" PL = "żołnierz" />
+  <memory EN="surgeon" PL = "chirurg" />
+  <memory EN="teacher" PL = "nauczyciel" />
+  <memory EN="travel agent" PL = "pracownik biura podróży" />
+  <memory EN="TV presenter" PL = "prezenter TV" />
+  <memory EN="vet" PL = "weterynarz" />
+  <memory EN="waiter" PL = "kelner" />
+  <memory EN="waitress" PL = "kelnerka" />
+  <memory EN="writer" PL = "pisarz" />
   
-  <memory COLOR="true" EN="carpenter" PL = "" />
-  <memory COLOR="true" EN="chief executive" PL = "" />
-  <memory COLOR="true" EN="comedian" PL = "" />
-  <memory COLOR="true" EN="counsellor" PL = "" />
-  <memory COLOR="true" EN="doorman" PL = "" />
-  <memory COLOR="true" EN="editor" PL = "" />
-  <memory COLOR="true" EN="graphic designer" PL = "" />
-  <memory COLOR="true" EN="handyman" PL = "" />
-  <memory COLOR="true" EN="nutritionist" PL = "" />
-  <memory COLOR="true" EN="psychiatrist" PL = "" />
+  <memory COLOR="true" EN="carpenter" PL = "stolarz" />
+  <memory COLOR="true" EN="chief executive" PL = "dyrektor" />
+  <memory COLOR="true" EN="comedian" PL = "komik,aktor komediowy" />
+  <memory COLOR="true" EN="counsellor" PL = "doradca" />
+  <memory COLOR="true" EN="doorman" PL = "portier" />
+  <memory COLOR="true" EN="editor" PL = "redaktor" />
+  <memory COLOR="true" EN="graphic designer" PL = "grafik" />
+  <memory COLOR="true" EN="handyman" PL = "majster" />
+  <memory COLOR="true" EN="nutritionist" PL = "dietetyk" />
+  <memory COLOR="true" EN="psychiatrist" PL = "psychiatra" />
   
   <memory TITLE ="Job expressions/Zwroty związane z pracą"/>
 
