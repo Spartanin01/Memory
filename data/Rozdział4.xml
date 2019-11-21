@@ -115,39 +115,45 @@
   
   <memory TITLE ="Employment and work conditions/Warunki pracy i zatrudnienia"/>
   
-  <memory EN="badly-paid" PL = "" />
-  <memory EN="bonus" PL = "" />
-  <memory EN="career prospects" PL = "" />
-  <memory EN="chance of promotion" PL = "" />
-  <memory EN="change jobs" PL = "" />
-  <memory EN="colleagues" PL = "" />
-  <memory EN="contract" PL = "" />
-  <memory EN="do/work overtime" PL = "" />
-  <memory EN="do/work shifts" PL = "" />
-  <memory EN="earn money" PL = "" />
-  <memory EN="duties" PL = "" />
-  <memory EN="earnings" PL = "" />
-  <memory EN="full-time" PL = "" />
-  <memory EN="get a job" PL = "" />
-  <memory EN="get a promotion" PL = "" />
-  <memory EN="income" PL = "" />
-  <memory EN="leave your job" PL = "" />
-  <memory EN="paid leave" PL = "" />
-  <memory EN="part-time" PL = "" />
-  <memory EN="pension" PL = "" />
-  <memory EN="per hour/week/month" PL = "" />
-  <memory EN="permament" PL = "" />
-  <memory EN="retire/retirement" PL = "" />
-  <memory EN="salary" PL = "" />
-  <memory EN="sick leave" PL = "" />
-  <memory EN="tax" PL = "" />
-  <memory EN="team work" PL = "" />
+  <memory EN="badly-paid" PL = "słabo płatny" />
+  <memory EN="bonus" PL = "premia" />
+  <memory EN="career prospects" PL = "perspektywy zawodowe" />
+  <memory EN="chance of promotion" PL = "szansa na awans" />
+  <memory EN="change jobs" PL = "zmienić pracę" />
+  <memory EN="colleagues" PL = "kolezanki/koledzy z pracy" />
+  <memory EN="contract" PL = "umowa" />
+  <memory EN="do/work overtime" PL = "pracować w nagodzinach" />
+  <memory EN="do/work shifts" PL = "pracowac na zmiany" />
+  <memory EN="earn money" PL = "zarabiac pieniądze" />
+  <memory EN="duties" PL = "obowiązki" />
+  <memory EN="earnings" PL = "zarobki" />
+  <memory EN="full-time" PL = "na pełen etat" />
+  <memory EN="get a job" PL = "znaleźć/dostac pracę" />
+  <memory EN="get a promotion" PL = "dostac awans" />
+  <memory EN="income" PL = "dochód" />
+  <memory EN="leave your job" PL = "odejść z pracy" />
+  <memory EN="paid leave" PL = "płatny urlop" />
+  <memory EN="part-time" PL = "na część etatu" />
+  <memory EN="pension" PL = "emerytura/dostać emeryturę" />
+  <memory EN="per hour/week/month" PL = "na godzinę/tygodniowo/miesięcznie" />
+  <memory EN="permament" PL = "stały" />
+  <memory EN="retire/retirement" PL = "iść na emeryturę" />
+  <memory EN="salary" PL = "pensja" />
+  <memory EN="sick leave" PL = "zwolnienie lekarskie" />
+  <memory EN="tax" PL = "podatek" />
+  <memory EN="team work" PL = "praca zespołowa" />
+  <memory EN="temporary" PL = "tymczasowy" />
+  <memory EN="tips" PL = "napiwki" />
+  <memory EN="unpaid" PL = "bezpłatny" />
+  <memory EN="well-paid PL" = "dobrze płatny" />
+  <memory EN="work long hours" PL = "pracowac do późna" />
+  <memory EN="workplace" PL = "miejsce pracy" />  
+                                
+                                
+  <memory EN="" PL = "" />                            
   <memory EN="" PL = "" />
   <memory EN="" PL = "" />
   <memory EN="" PL = "" />
-  <memory EN="" PL = "" />
-
-
 
   <memory EN="" PL = "" />
   <memory TITLE =""/>
