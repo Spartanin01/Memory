@@ -244,13 +244,62 @@
   <memory EN="up to date" PL = "aktualny" />
   <memory EN="vacancy" PL = "wakat,wolne stanowisko" />
   <memory EN="work from home" PL = "pracowac w domu" />
+
+  <memory COLOR="true" EN="attach a CV" PL = "załączyć CV" />
+  <memory COLOR="true" EN="check out a company" PL = "sprawdzić informacje o firmie" />
+  <memory COLOR="true" EN="get in house training" PL = "" />
+  <memory COLOR="true" EN="get sacked" PL = "" />
+  <memory COLOR="true" EN="go on strike" PL = "" />
+  <memory COLOR="true" EN="hand in your notice" PL = "" />
+  <memory COLOR="true" EN="hand over information" PL = "" />
+  <memory COLOR="true" EN="have a complaints procedure" PL = "" />
+  <memory COLOR="true" EN="join a union" PL = "" />
+  <memory COLOR="true" EN="sign on (the dole)" PL = "" />
+  <memory COLOR="true" EN="start up a business" PL = "" />
+  <memory COLOR="true" EN="take on" PL = "" />
+  <memory COLOR="true" EN="take over from someone" PL = "" />
+  <memory COLOR="true" EN="take time off" PL = "" />
+  <memory COLOR="true" EN="take up a position" PL = "" />
+  <memory COLOR="true" EN="take up reference" PL = "" />
+  <memory COLOR="true" EN="work flextime" PL = "" />
+
   
   
-  <memory TITLE =""/>
+  <memory TITLE ="Other/Inne"/>
 
-  <memory COLOR="true" EN="" PL = "" />
-  <memory EN="" PL = "" />
+  <memory EN="ability" PL = "" />
+  <memory EN="at some point" PL = "" />
+  <memory EN="consult" PL = "" />
+  <memory EN="drop out of" PL = "" />
+  <memory EN="fashionable" PL = "" />
+  <memory EN="grumpy" PL = "" />
+  <memory EN="inheritance" PL = "" />
+  <memory EN="launch" PL = "" />
+  <memory EN="money-making" PL = "" />
+  <memory EN="routine" PL = "" />
+  <memory EN="summarise" PL = "" />
+  <memory EN="trendy" PL = "" />
+  <memory EN="well-being" PL = "" />
+  <memory EN="wonder" PL = "" />
 
+  <memory COLOR="true" EN="body language" PL = "" />
+  <memory COLOR="true" EN="computer-generated" PL = "" />
+  <memory COLOR="true" EN="contagious" PL = "" />
+  <memory COLOR="true" EN="content" PL = "" />
+  <memory COLOR="true" EN="devote oneself to" PL = "" />
+  <memory COLOR="true" EN="do something workwise" PL = "" />
+  <memory COLOR="true" EN="emerge" PL = "" />
+  <memory COLOR="true" EN="focus on" PL = "" />
+  <memory COLOR="true" EN="go together" PL = "" />
+  <memory COLOR="true" EN="have no clue" PL = "" />
+  <memory COLOR="true" EN="last long" PL = "" />
+  <memory COLOR="true" EN="make the headlines" PL = "" />
+  <memory COLOR="true" EN="money-minded" PL = "" />
+  <memory COLOR="true" EN="on top of" PL = "" />
+  <memory COLOR="true" EN="positive thinking" PL = "" />
+  <memory COLOR="true" EN="put someone into practice" PL = "" />
+  <memory COLOR="true" EN="technology-oriented" PL = "" />
+  
 
 
 </FILE>
