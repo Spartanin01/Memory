@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <FILE>
-  
+
   <language lan="en-us"/>
 
   <memory TITLE ="Jobs and responsibilities/Zawody i związane z nimi czynności"/>
@@ -62,7 +62,7 @@
   <memory EN="waiter" PL = "kelner" />
   <memory EN="waitress" PL = "kelnerka" />
   <memory EN="writer" PL = "pisarz" />
-  
+
   <memory COLOR="true" EN="carpenter" PL = "stolarz" />
   <memory COLOR="true" EN="chief executive" PL = "dyrektor" />
   <memory COLOR="true" EN="comedian" PL = "komik,aktor komediowy" />
@@ -73,12 +73,12 @@
   <memory COLOR="true" EN="handyman" PL = "majster" />
   <memory COLOR="true" EN="nutritionist" PL = "dietetyk" />
   <memory COLOR="true" EN="psychiatrist" PL = "psychiatra" />
-                                                          
-                                                          
+
+
   <memory TITLE ="Job expressions/Zwroty związane z pracą"/>
 
-  
-  
+
+
   <memory EN="at work" PL = "w pracy" />
   <memory EN="be in charge of" PL = "zarządać/odpowiadac za" />
   <memory EN="do something for living" PL = "urzymywac sie z czegoś" />
@@ -95,26 +95,26 @@
   <memory EN="work on" PL = "pracowac nad czymś" />
   <memory EN="work under pressure" PL = "pracowac pod presją" />
   <memory EN="work with" PL = "pracowac z" />
-  
+
   <memory TITLE ="Job adjectives/Przymiotniki opisujace pracę"/>
-  
-  
+
+
   <memory EN="dangerous" PL = "niebezpieczny" />
   <memory EN="manual" PL = "fizyczny" />
   <memory EN="satisfying" PL = "satysfakcjonujący" />
   <memory EN="skilled" PL = "wymagający kwalifikacji" />
   <memory EN="stressful" PL = "stresujący" />
   <memory EN="tiring" PL = "męczący" />
-  
+
   <memory COLOR="true" EN="challenging" PL = "ambitny/stanowiący wyzwanie" />
   <memory COLOR="true" EN="dead-end" PL = "bez perspektyw" />
   <memory COLOR="true" EN="monotonous" PL = "monotonny" />
   <memory COLOR="true" EN="motiviating" PL = "motywujący" />
   <memory COLOR="true" EN="rewarding" PL = "satysfakcjonujący" />
   <memory COLOR="true" EN="undemanding" PL = "niewymagający" />
-  
+
   <memory TITLE ="Employment and work conditions/Warunki pracy i zatrudnienia"/>
-  
+
   <memory EN="badly-paid" PL = "słabo płatny" />
   <memory EN="bonus" PL = "premia" />
   <memory EN="career prospects" PL = "perspektywy zawodowe" />
@@ -147,9 +147,9 @@
   <memory EN="unpaid" PL = "bezpłatny" />
   <memory EN="well-paid" PL = "dobrze płatny" />
   <memory EN="work long hours" PL = "pracowac do późna" />
-  <memory EN="workplace" PL = "miejsce pracy" />  
-  
-  
+  <memory EN="workplace" PL = "miejsce pracy" />
+
+
   <memory COLOR="true" EN="business trip" PL = "podróż służbowa" />
   <memory COLOR="true" EN="do the graveyard shift" PL = "pracowac na nocna zmianę" />
   <memory COLOR="true" EN="expenses" PL = "wydatki" />
@@ -171,35 +171,86 @@
   <memory COLOR="true" EN="take unpaid leave" PL = "urlop bezpłatny" />
   <memory COLOR="true" EN="yearly appraisal" PL = "roczna ocena pracownika" />
   <memory COLOR="true" EN="working conditions" PL = "warunki pracy" />
-  
+
   <memory TITLE="Temporary work/praca dorywcza"/>
-                                                               
-  <memory EN="au pair" PL = "au pair" />                            
+
+  <memory EN="au pair" PL = "au pair" />
   <memory EN="babysitter" PL = "opiekun/opiekunka" />
   <memory EN="charity worker" PL = "wolontariusz" />
   <memory EN="checkout assistant" PL = "kasjer/kasjerka" />
-  <memory EN="delivery boy" PL = "roznosiciel gazet" />                            
+  <memory EN="delivery boy" PL = "roznosiciel gazet" />
   <memory EN="fruit picking" PL = "zbieranie owoców" />
   <memory EN="holiday job" PL = "praca wakacyjna" />
   <memory EN="lifeguard" PL = "ratownik" />
-  <memory EN="seasonal work" PL = "praca sezonowa" />                            
+  <memory EN="seasonal work" PL = "praca sezonowa" />
   <memory EN="summer camp supervisor" PL = "opiekun na obozie letnim" />
   <memory EN="summer job" PL = "praca na lato" />
   <memory EN="tour guide" PL = "przewodnik" />
-  <memory EN="voluntary work" PL = "wolontariat" />                            
+  <memory EN="voluntary work" PL = "wolontariat" />
   <memory EN="wages" PL = "płaca/dniówka" />
   <memory EN="weekend job" PL = "praca weekendowa" />
-  
-  
-  
-  
 
-  <memory EN="" PL = "" />
+
+
+
+
+  
+  <memory EN="advertise" PL = "ogłaszać" />
+  <memory EN="applicant" PL = "kandydant/kandydatka" />
+  <memory EN="application form" PL = "formularz aplikacyjny" />
+  <memory EN="apply for a job" PL = "ubiegać się o pracę" />
+  <memory EN="be fired" PL = "zostac zwolnionym" />
+  <memory EN="be made redundant" PL = "zostać zwolnionym w ramach redukcji kolorów" />
+  <memory EN="become empolyed" PL = "zostać zatrudnionym" />
+  <memory EN="candidate" PL = "kandydat/kandydatka" />
+  <memory EN="covering letter" PL = "list motywacyjny" />
+  <memory EN="deadline" PL = "termin wykonania pracy" />
+  <memory EN="do well" PL = "dobrze sobie poradzić" />
+  <memory EN="employee" PL = "pracownik" />
+  <memory EN="empolyer" PL = "pracodawca" />
+  <memory EN="enclose" PL = "załączyć" />
+  <memory EN="entreprenur" PL = "przedsiędbiorca" />
+  <memory EN="fill in" PL = "wypełnić" />
+  <memory EN="find work" PL = "znaleźć pracę" />
+  <memory EN="get careers advice" PL = "skorzystać z doradztwa zawodowego" />
+  <memory EN="go banktrupt" PL = "zbankrutować" />
+  <memory EN="go freelance/freelancer" PL = "zacząć pracować na własny rachunek" />
+  <memory EN="have an interview" PL = "odbyć rozmowę kwalifikacyjną" />
+  <memory EN="have experiance" PL = "mieć doświadczenie" />
+  <memory EN="hire" PL = "zatrudniać" />
+  <memory EN="human resources" PL = "dział personalny" />
+  <memory EN="jobcentre" PL = "biuro pośrednictwa" />
+  <memory EN="job offer" PL = "oferta pracy" />
+  <memory EN="job satisfaction" PL = "zadowolenie z wykonowanej pracy" />
+  <memory EN="keep a record" PL = "prowadzić rejestr" />
+  <memory EN="lack of experiance" PL = "brak (doświadczenia)" />
+  <memory EN="loose your job" PL = "stracić pracę" />
+  <memory EN="offer a job" PL = "zaproponować pracę" />
+  <memory EN="out of work" PL = "bez pracy" />
+  <memory EN="position" PL = "praca,stanowsko" />
+  <memory EN="post" PL = "stanowisko,posada" />
+  <memory EN="qualifcations" PL = "kwalifikacje" />
+  <memory EN="recruitment" PL = "rekrutacja" />
+  <memory EN="reference" PL = "referencje" />
+  <memory EN="reject" PL = "odrzucić" />
+  <memory EN="resign" PL = "złożyć rezygnację" />
+  <memory EN="run your own business" PL = "prowadzić własną firmę" />
+  <memory EN="self-employed" PL = "samozatrudniony" />
+  <memory EN="short list" PL = "lista najpoważniejszych kandydatów" />
+  <memory EN="situations vacant" PL = "oferty pracy" />
+  <memory EN="staff" PL = "personel,kadra" />
+  <memory EN="take up a job" PL = "podjąć pracę" />
+  <memory EN="unemployed" PL = "bezrobotny" />
+  <memory EN="up to date" PL = "aktualny" />
+  <memory EN="vacancy" PL = "wakat,wolne stanowisko" />
+  <memory EN="work from home" PL = "pracowac w domu" />
+  
+  
   <memory TITLE =""/>
 
   <memory COLOR="true" EN="" PL = "" />
+  <memory EN="" PL = "" />
 
-  
-  
-  
+
+
 </FILE>
