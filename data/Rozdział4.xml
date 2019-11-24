@@ -247,58 +247,58 @@
 
   <memory COLOR="true" EN="attach a CV" PL = "załączyć CV" />
   <memory COLOR="true" EN="check out a company" PL = "sprawdzić informacje o firmie" />
-  <memory COLOR="true" EN="get in house training" PL = "" />
-  <memory COLOR="true" EN="get sacked" PL = "" />
-  <memory COLOR="true" EN="go on strike" PL = "" />
-  <memory COLOR="true" EN="hand in your notice" PL = "" />
-  <memory COLOR="true" EN="hand over information" PL = "" />
-  <memory COLOR="true" EN="have a complaints procedure" PL = "" />
-  <memory COLOR="true" EN="join a union" PL = "" />
-  <memory COLOR="true" EN="sign on (the dole)" PL = "" />
-  <memory COLOR="true" EN="start up a business" PL = "" />
-  <memory COLOR="true" EN="take on" PL = "" />
-  <memory COLOR="true" EN="take over from someone" PL = "" />
-  <memory COLOR="true" EN="take time off" PL = "" />
-  <memory COLOR="true" EN="take up a position" PL = "" />
-  <memory COLOR="true" EN="take up reference" PL = "" />
-  <memory COLOR="true" EN="work flextime" PL = "" />
+  <memory COLOR="true" EN="get in house training" PL = "przejść wewnętrzne szkolenie" />
+  <memory COLOR="true" EN="get sacked" PL = "zostać zwolnionym z pracy" />
+  <memory COLOR="true" EN="go on strike" PL = "strajkować" />
+  <memory COLOR="true" EN="hand in your notice" PL = "wręczyć wymówienie" />
+  <memory COLOR="true" EN="hand over information" PL = "przekazać informacje" />
+  <memory COLOR="true" EN="have a complaints procedure" PL = "miec procedurę składania reklamacji" />
+  <memory COLOR="true" EN="join a union" PL = "zapisać sie do związku zawodowego" />
+  <memory COLOR="true" EN="sign on (the dole)" PL = "zarejestrowac się jako bezrobotny" />
+  <memory COLOR="true" EN="start up a business" PL = "założyć biznes" />
+  <memory COLOR="true" EN="take on" PL = "przyjąć,zatrudnić" />
+  <memory COLOR="true" EN="take over from someone" PL = "przejąć od kogoś obowiązki" />
+  <memory COLOR="true" EN="take time off" PL = "wziąć wolne" />
+  <memory COLOR="true" EN="take up a position" PL = "objąć stanowisko" />
+  <memory COLOR="true" EN="take up reference" PL = "sprawdzić referencje kandydata" />
+  <memory COLOR="true" EN="work flextime" PL = "miec elastyczne godziny pracy" />
 
   
   
   <memory TITLE ="Other/Inne"/>
 
-  <memory EN="ability" PL = "" />
-  <memory EN="at some point" PL = "" />
-  <memory EN="consult" PL = "" />
-  <memory EN="drop out of" PL = "" />
-  <memory EN="fashionable" PL = "" />
-  <memory EN="grumpy" PL = "" />
-  <memory EN="inheritance" PL = "" />
-  <memory EN="launch" PL = "" />
-  <memory EN="money-making" PL = "" />
-  <memory EN="routine" PL = "" />
-  <memory EN="summarise" PL = "" />
-  <memory EN="trendy" PL = "" />
-  <memory EN="well-being" PL = "" />
-  <memory EN="wonder" PL = "" />
+  <memory EN="ability" PL = "zdolność,umiejętności" />
+  <memory EN="at some point" PL = "w którymś momencie" />
+  <memory EN="consult" PL = "consult" />
+  <memory EN="drop out of" PL = "drop out of" />
+  <memory EN="fashionable" PL = "fashionable" />
+  <memory EN="grumpy" PL = "zrzędliwy" />
+  <memory EN="inheritance" PL = "spadek" />
+  <memory EN="launch" PL = "wprowadzić produkt na rynek" />
+  <memory EN="money-making" PL = "dochodowy" />
+  <memory EN="routine" PL = "rutyna" />
+  <memory EN="summarise" PL = "podsumować" />
+  <memory EN="trendy" PL = "modny" />
+  <memory EN="well-being" PL = "dobre samopoczucie" />
+  <memory EN="wonder" PL = "zastanawiac się" />
 
-  <memory COLOR="true" EN="body language" PL = "" />
-  <memory COLOR="true" EN="computer-generated" PL = "" />
-  <memory COLOR="true" EN="contagious" PL = "" />
-  <memory COLOR="true" EN="content" PL = "" />
-  <memory COLOR="true" EN="devote oneself to" PL = "" />
-  <memory COLOR="true" EN="do something workwise" PL = "" />
-  <memory COLOR="true" EN="emerge" PL = "" />
-  <memory COLOR="true" EN="focus on" PL = "" />
-  <memory COLOR="true" EN="go together" PL = "" />
-  <memory COLOR="true" EN="have no clue" PL = "" />
-  <memory COLOR="true" EN="last long" PL = "" />
-  <memory COLOR="true" EN="make the headlines" PL = "" />
-  <memory COLOR="true" EN="money-minded" PL = "" />
-  <memory COLOR="true" EN="on top of" PL = "" />
-  <memory COLOR="true" EN="positive thinking" PL = "" />
-  <memory COLOR="true" EN="put someone into practice" PL = "" />
-  <memory COLOR="true" EN="technology-oriented" PL = "" />
+  <memory COLOR="true" EN="body language" PL = "język ciała" />
+  <memory COLOR="true" EN="computer-generated" PL = "zaprojektowany za pomoca komputera" />
+  <memory COLOR="true" EN="contagious" PL = "zaraźliwy" />
+  <memory COLOR="true" EN="content" PL = "zadowolony" />
+  <memory COLOR="true" EN="devote oneself to" PL = "poświęcić się (czemuś)" />
+  <memory COLOR="true" EN="do something workwise" PL = "robić cos w kwestiach zawodowych" />
+  <memory COLOR="true" EN="emerge" PL = "pojawić się" />
+  <memory COLOR="true" EN="focus on" PL = "skupić sie na" />
+  <memory COLOR="true" EN="go together" PL = "pasować do siebie/iść ze sobą w parze" />
+  <memory COLOR="true" EN="have no clue" PL = "nie mieć pojęcia" />
+  <memory COLOR="true" EN="last long" PL = "przetrwać/utrzymać się" />
+  <memory COLOR="true" EN="make the headlines" PL = "trafić na czołówki gazet" />
+  <memory COLOR="true" EN="money-minded" PL = "dbający tylko o pieniądze" />
+  <memory COLOR="true" EN="on top of" PL = "poza,oprócz" />
+  <memory COLOR="true" EN="positive thinking" PL = "pozytywne myślenie" />
+  <memory COLOR="true" EN="put someone into practice" PL = "zastosować coś w praktyce" />
+  <memory COLOR="true" EN="technology-oriented" PL = "zainteresowany techniką" />
   
 
 
